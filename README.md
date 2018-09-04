@@ -11,7 +11,7 @@ No installation. Just fork this repository and pull it to your local enviroment,
 Type words of city or state into the input box(City or State) of browser what you want to find. Then, you can see corresponding result city or state includes population. Whenever the words of the box changed, searching algorithm will be genereted and will show you up to date result.
 
 <p align="center">
-  <img width="460" height="300" src="./gitReadmeImg/1.png">
+  <img src="./gitReadmeImg/1.png">
 </p>
 
 ### And coding style tests
@@ -20,7 +20,7 @@ Needs to add color changing of excuted words which are exec method result of R.E
 Needs to devide search result <div> box into <div id="cityStateBox" /> and <div id="population"> to stand population result in a line.
 
 <p align="center">
-  <img width="460" height="300" src="./gitReadmeImg/2.png">
+  <img src="./gitReadmeImg/2.png">
 </p>
 
 Can make 'keydown' event handler more simple via 'keyup'. See remarks in 'event.js' file.
