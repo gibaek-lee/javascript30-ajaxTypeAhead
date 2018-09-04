@@ -1,5 +1,5 @@
 # javascript30-ajaxTypeAhead
-ajax type ahead(Vanilla javascript coding challenge day1)
+ajax type ahead(Vanilla javascript coding challenge day 6)
 
 ## Getting Started
 This is a simple searching tool based on keyword finding via R.E.(Regular Expression)
