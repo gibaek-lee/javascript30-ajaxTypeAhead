@@ -1,0 +1,37 @@
+body{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#mainContainer{
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+input{
+  width: 300px;
+  height: 60px;
+  font-size: 25px;
+  text-align: center;
+}
+#resultBox{
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+#infoBox{
+  display:flex;
+  align-content: space-between;
+  flex-direction: row;
+}
+.cityStateInfo{
+  flex-grow: 10;
+}
+.populationInfo{
+  flex-grow: 1;
+  right: 0;
+}
