@@ -5,7 +5,7 @@ ajax type ahead(Vanilla javascript coding challenge day 6)
 This is a simple searching tool based on keyword finding via R.E.(Regular Expression)
 
 ## Running the tests
-No installation. Just fork this repository and pull it to your local enviroment, run index.html on internet browser(in my case, Chrome).
+No installation. Just fork this repository and pull it to your local enviroment, run index.html on internet browser(in my case, Chrome). Or click [here](https://ginnyang2.github.io/javascript30-ajaxTypeAhead)
 
 ### Break down into end to end tests
 Type words of city or state into the input box(City or State) of browser what you want to find. Then, you can see corresponding result city or state includes population. Whenever the words of the box changed, searching algorithm will be genereted and will show you up to date result.
