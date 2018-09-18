@@ -34,4 +34,4 @@ Gi-baek lee, first commit, No contribution. [More about me, LinkedIn](https://ww
 ## License
 - Course Name: Javascript 30
 - Course Instructor: Wes Bros
-- Course Web site: [JavaScript30](https://javascript30.com/)
+- cities information: Course Web site [JavaScript30](https://javascript30.com/) day6 [TypeAhead git Wes Bros repository](https://github.com/wesbos/JavaScript30/tree/master/06%20-%20Type%20Ahead) endPoint variable
